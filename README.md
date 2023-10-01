@@ -15,28 +15,28 @@ No diretório do projeto, você pode executar:
 </ul>
  
 ## Banner:
-![home page](https://github.com/ViniciusV4/Organo-React/blob/main/public/img/site/banner.png)
+![home page](https://github.com/ViniciusV4/Organo_React/blob/main/public/img/site/banner.png)
 
 ## Register:
-![register](https://github.com/ViniciusV4/Organo-React/blob/main/public/img/site/dadosPag1.png)
+![register](https://github.com/ViniciusV4/Organo_React/blob/main/public/img/site/dadosPag1.png)
 
 ## Programing:
-![programing](https://github.com/ViniciusV4/Organo-React/blob/main/public/img/site/programacaoPAg2.png)
+![programing](https://github.com/ViniciusV4/Organo_React/blob/main/public/img/site/programacaoPAg2.png)
 
 ## FrontEnd:
-![FrontEnd](https://github.com/ViniciusV4/Organo-React/blob/main/public/img/site/frontPag3.png)
+![FrontEnd](https://github.com/ViniciusV4/Organo_React/blob/main/public/img/site/frontPag3.png)
 
 ## Data Science:
-![dataScience](https://github.com/ViniciusV4/Organo-React/blob/main/public/img/site/dataSciencePag4.png)
+![dataScience](https://github.com/ViniciusV4/Organo_React/blob/main/public/img/site/dataSciencePag4.png)
 
 ## Designer:
-![Designer](https://github.com/ViniciusV4/Organo-React/blob/main/public/img/site/designerPag5.png)
+![Designer](https://github.com/ViniciusV4/Organo_React/blob/main/public/img/site/designerPag5.png)
 
 ## Mobile:
-![Mobile](https://github.com/ViniciusV4/Organo-React/blob/main/public/img/site/mobilePag6.png)
+![Mobile](https://github.com/ViniciusV4/Organo_React/blob/main/public/img/site/mobilePag6.png)
 
 ## Innovation And Management:
-![Mo](https://github.com/ViniciusV4/Organo-React/blob/main/public/img/site/inovacaoPag7.png)
+![Mo](https://github.com/ViniciusV4/Organo_React/blob/main/public/img/site/inovacaoPag7.png)
 
 ## Technologies Used:
 
