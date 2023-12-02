@@ -6,7 +6,7 @@
 
 No diretório do projeto, você pode executar:
 
-### O projeto tem que ser iniciado no terminal com 'NPM Start'
+### O projeto tem que ser iniciado no terminal com 'NPM install'
 
 # Organo
 <ul>
